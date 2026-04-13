@@ -11,4 +11,4 @@ Using RandomizedSearchCV to compare and select from four distinct classification
 
 ## Healthcare Impact
 Streamlined cardiac risk communication enables much-needed preventive care. 
-[View Notebook](./Supervised Learning - Logistic Regression - Predicting Heart Disease Risk Scores.ipynb) [Watch Presentation](./Predicting Heart Disease Risk.mov)
+[View Notebook](Supervised%20Learning%20-%20Logistic%20Regression%20-%20Predicting%20Heart%20Disease%20Risk%20Scores.ipynb)
