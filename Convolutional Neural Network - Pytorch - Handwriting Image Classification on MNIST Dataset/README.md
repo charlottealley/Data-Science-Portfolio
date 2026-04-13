@@ -12,4 +12,4 @@ This project uses the well-known MNIST dataset to build a CNN image classifier. 
 ## Healthcare Impact
 Although a shift has been made to digital notetaking, automating EHR digitization remains important for analyzing hand-written healthcare records. 
 
-[View Notebook](./"Convolutional Neural Network - Pytorch - Handwriting Image Classification on MNIST Dataset.ipynb")
+[View Notebook](./Convolutional%20Neural%20Network%20-%20Pytorch%20-%20Handwriting%20Image%20Classification%20on%20MNIST%20Dataset.ipynb)
